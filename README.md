@@ -46,5 +46,5 @@ Start the server
 ## Demo
 
 Insert gif or link to demo
-![Alt text](relative/demo1.png?raw=true "Demo1")
-![Alt text](relative/demo2.png?raw=true "Demo2")
+![Alt text](relative/blob/main/demo1.png?raw=true "Demo1")
+
